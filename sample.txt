@@ -1,1 +1,2 @@
 hi this is nayab
+I am using this git bash for practicing to execute the commands
